@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Harbour';
+  src: url('/src/fonts/harbour.ttf');
+}
+
+@font-face {
+  font-family: 'Freight';
+  src: url('/src/fonts/freight.otf');
+}
+
+@font-face {
+  font-family: 'Haas';
+  src: url('/src/fonts/haas-light.ttf');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: local('Neue Haas Grotesk Light'), local('Neue-Haas-Grotesk--Light'),
+    url('/src/fonts/NeueHaasDisplay-Light.woff2') format('woff2'),
+    url('/src/fonts/NeueHaasDisplay-Light.woff') format('woff'),
+    url('/src/fonts/NeueHaasDisplay-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
